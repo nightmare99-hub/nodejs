@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightmare99-hub/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "nightmare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nightmare99-hub/nodejs/issues"
+  },
+  "homepage": "https://github.com/nightmare99-hub/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
